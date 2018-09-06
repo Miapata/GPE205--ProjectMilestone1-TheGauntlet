@@ -321,7 +321,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   camera: {fileID: 534669902}
   launcher: {fileID: 1725663429}
-  rotateSpeed: 0
+  rotateSpeed: 10
+  moveSpeed: 10
+  vertical: 0
 --- !u!4 &1725663429 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: 65e92f227846e794883569c427a9c4c3,
